@@ -33,11 +33,11 @@ st.title("Nvidia Nim demo")
 
 prompt=ChatPromptTemplate.from_template(
     """
-    Answer the queqtion based on the provided context only.
+    Answer the question based on the provided context only.
     Please provide the most accurate response based on the question
     <context>
     {context}
-    <context>
+    </context>
     Questions:{input}
     """
 )
