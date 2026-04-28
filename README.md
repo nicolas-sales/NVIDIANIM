@@ -92,7 +92,7 @@ http://localhost:8501
 
 ---
 
-# ⚠️ Notes importantes
+# Notes importantes
 
 * L’application utilise `st.session_state` pour éviter de recalculer les embeddings à chaque interaction
 * Compatible avec les versions récentes de LangChain (Runnable API)
