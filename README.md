@@ -55,7 +55,7 @@ NVIDIA_API_KEY=your_api_key_here
 
 ---
 
-## ▶Lancer l'application
+## Lancer l'application
 
 ```bash
 streamlit run finalapp.py
